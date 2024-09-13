@@ -14,3 +14,6 @@ const dupla = aluno1+" e "+aluno2;
 
 console.log("somos a dupla: "+dupla+"\n");
 console.log("a soma de nossas idades é: "+somaIdades+" anos");
+
+document.write("<h1>Somos a dupla: </h1>" +dupla);
+document.write("a soma de nossas idades é: "+somaIdades+" anos");
